@@ -1,6 +1,6 @@
 # Abdelrahman Ashour, portfolio
 
-React 18 + TypeScript + Vite. Light and dark themes, live project previews.
+React 18 + TypeScript + Vite. dark and dark themes, live project previews.
 
 ## Run locally
 
@@ -28,7 +28,7 @@ npm run preview    # serve dist/ locally
 | --- | --- |
 | `src/data.ts` | Skills, experience, projects, links. Edit your content here. |
 | `src/App.tsx` | Page sections and components. |
-| `src/index.css` | All styling, including the light and dark color tokens. |
+| `src/index.css` | All styling, including the dark and dark color tokens. |
 | `src/assets/` | Your photo and the project screenshots. |
 
 To add a project, add an entry to `own` in `src/data.ts` and put its screenshot in `src/assets/`
